@@ -152,4 +152,6 @@ python src/app.py
 
 ## 📚 About
 
-This project was developed as part of a university software development module and is shared for portfolio purposes to demonstrate experience with desktop application development, database integration, role-based access control, and object-oriented programming using Python.
+This project was developed as part of a university group software engineering assignment.
+
+The repository showcases my implementation and demonstrates experience with Python desktop application development, MySQL database integration, role-based authentication, GUI design using Tkinter, and object-oriented programming.
